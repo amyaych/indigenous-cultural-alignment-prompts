@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Contribution Guidelines
+    url: https://github.com/amyaych/indigenous-cultural-alignment-prompts/blob/main/CONTRIBUTING.md
+    about: Please read contribution expectations before opening an issue.
+  - name: Methodology
+    url: https://github.com/amyaych/indigenous-cultural-alignment-prompts/blob/main/METHODOLOGY.md
+    about: See review and validation methodology.
