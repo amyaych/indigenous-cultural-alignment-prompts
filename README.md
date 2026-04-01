@@ -52,18 +52,18 @@ The AI assistant is a **pre-engagement tool**. It is designed to help you *prepa
 
 This project is built on a foundation of professional expertise and technical rigor.
 
-- **Expert-Led**: Created by [Amy Heritage], a Fijian professional with over 10 years of experience in Indigenous affairs across NZ, Australia, and Canada.
-- **Expert-Validated**: Rigorously reviewed through an internal **11-expert validation panel** using maintainer-created synthetic personas informed by public scholarship and frameworks; this does not indicate endorsement, affiliation, or direct participation by named individuals.
-- **Technically Robust**: Uses advanced LLM techniques like **Chain of Thought (CoT)** and **Confidence Scoring** to minimise hallucination.
+- **Expert-led**: Created by [Amy Heritage], a Fijian professional with over 10 years of experience in Indigenous affairs across NZ, Australia, and Canada.
+- **Expert-validated**: Rigorously reviewed through an internal **11-expert validation panel** using maintainer-created synthetic personas informed by public scholarship and frameworks; this does not indicate endorsement, affiliation, or direct participation by named individuals.
+- **Technically robust**: Uses advanced LLM techniques like **Chain of Thought (CoT)** and **Confidence Scoring** to minimise hallucination.
 
 **[Read the full Methodology and Development Process here](METHODOLOGY.md)**
 
 ---
 
-## Repository Structure
+## Repository structure
 
 - `maori-nz/`: Māori (Aotearoa New Zealand) prompts.
-- `aboriginal-torres-strait-islander/`: Aboriginal and Torres Strait Islander (Australia) prompts.
+- `aboriginal-torres-strait-islander-australia/`: Aboriginal and Torres Strait Islander (Australia) prompts.
 - `first-nations-metis-inuit-canada/`: First Nations, Métis, and Inuit (Canada) prompts.
 - `fiji/`: Fiji prompts.
 - `samoa/`: Samoa prompts.
