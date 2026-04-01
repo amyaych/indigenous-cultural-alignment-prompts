@@ -1,4 +1,13 @@
 node_modules/
-.env
-tests/reports/
+build/
+dist/
+coverage/
 .DS_Store
+*.log
+.env*
+!.env.example
+tests/reports/
+tests/dist/
+/agents/
+/resources/
+/first-nations-canada/
