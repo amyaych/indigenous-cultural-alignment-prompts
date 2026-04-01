@@ -6,9 +6,9 @@
 
 ---
 
-## Why This Project Exists
+## Why this project exists
 
-Professionals across New Zealand, Australia, and Canada often want to "do the right thing" when working with Indigenous communities, but many feel a sense of **cultural anxiety** - a fear of making a mistake that leads to inaction or superficial engagement.
+Professionals across the world often want to "do the right thing" when working with Indigenous communities, but many feel a sense of **cultural anxiety** - a fear of making a mistake that leads to inaction or superficial engagement.
 
 This project bridges the gap between **intent** and **action**. By surfacing credible, existing frameworks and posing thought-provoking questions, these prompts help you identify cultural risks and opportunities *before* you engage with a community.
 
@@ -82,7 +82,7 @@ No. This tool is designed to help you *prepare* for engagement. It helps you ide
 The AI is constrained to surface only named, verifiable frameworks (e.g., UNDRIP, TRC, Te Tiriti). We have implemented a "Confidence Score" so the AI can tell you when it lacks enough context to provide a reliable review.
 
 **Who owns the output?**
-You do. The AI is a supportive peer looking over your shoulder. It provides observations and questions, but the final thinking and output belong to you.
+You do. The AI is a supportive peer looking over your shoulder. It provides observations and questions, but the final thinking and output belongs to you.
 
 ---
 
@@ -91,4 +91,4 @@ You do. The AI is a supportive peer looking over your shoulder. It provides obse
 Contributions are welcome! If you have suggestions for new frameworks or improvements to existing prompts, please see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ---
-Connect on [LinkedIn](https://linkedin.com/in/amycheritage)
+Connect on [LinkedIn](https://linkedin.com/in/amyheritage)
