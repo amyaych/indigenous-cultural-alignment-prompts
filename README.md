@@ -23,10 +23,10 @@ Choose the community and version that fits your needs:
 - **General Review Prompt**: For reviewing documents or products against publicly known legislation and cultural guidelines.
 - **Workplace Review Prompt**: For cross-referencing work against both external frameworks and your organisation's internal policies (e.g., RAPs, Māori strategies).
 
-### 2. Copy and Paste
+### 2. Option A) Copy and Paste
 Paste the prompt into your AI assistant (optimised for **Claude**, compatible with ChatGPT and Gemini).
 
-### 3. Use with Claude Projects (Recommended)
+### 2. Option B) Use with Claude Projects (Recommended)
 You can upload the `.md` files directly to a **Claude Project** to provide persistent cultural context for your entire workspace.
 
 ### 4. Provide Context
