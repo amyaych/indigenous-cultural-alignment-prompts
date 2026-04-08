@@ -60,15 +60,36 @@ This project is built on a foundation of professional expertise and technical ri
 
 ---
 
+## Web App
+
+A minimal web interface is available in the `app/` directory. It uses the Claude API to run reviews directly in your browser — no copy-pasting required.
+
+### Setup
+
+```bash
+cd app
+npm install
+cp .env.local.example .env.local
+# Add your Anthropic API key to .env.local
+npm run dev
+```
+
+Open `http://localhost:3000`. Select a region, choose General or Workplace review, paste or upload your document, and run the review. For Workplace reviews, a second input appears for your organisational strategies and policies.
+
+**Requirements:** Node.js 18+, an Anthropic API key.
+
+---
+
 ## Repository Structure
 
-- `maori-nz/`: Māori (Aotearoa New Zealand) prompts.
-- `aboriginal-torres-strait-islander/`: Aboriginal and Torres Strait Islander (Australia) prompts.
+- `maori-aotearoa/`: Māori (Aotearoa New Zealand) prompts.
+- `aboriginal-torres-strait-islander-australia/`: Aboriginal and Torres Strait Islander (Australia) prompts.
 - `first-nations-metis-inuit-canada/`: First Nations, Métis, and Inuit (Canada) prompts.
 - `fiji/`: Fiji prompts.
 - `samoa/`: Samoa prompts.
 - `tonga/`: Tonga prompts.
 - `resources/`: Terminology, Trusted Sources, and Global Rights.
+- `app/`: Web interface with Claude API integration.
 - `tests/`: TypeScript evaluation suite and rubric.
 
 ---
