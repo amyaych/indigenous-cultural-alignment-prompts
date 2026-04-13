@@ -68,7 +68,6 @@ This project is built on a foundation of professional expertise and technical ri
 - `fiji/`: Fiji prompts.
 - `samoa/`: Samoa prompts.
 - `tonga/`: Tonga prompts.
-- `resources/`: Terminology, Trusted Sources, and Global Rights.
 - `tests/`: TypeScript evaluation suite and rubric.
 
 ---
