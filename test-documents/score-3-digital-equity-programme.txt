@@ -1,0 +1,243 @@
+DIGITAL FUTURES AOTEAROA
+Programme Strategy and Implementation Plan 2026–2029
+Prepared by: Connected Communities Trust
+Reviewed by: Programme Advisory Board
+Date: January 2026
+Version: 2.1 FINAL
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PREAMBLE
+
+Connected Communities Trust acknowledges that we operate across Aotearoa New Zealand on the lands and waters of many iwi and hapū. We recognise Te Tiriti o Waitangi as the founding document of this nation and acknowledge the obligations it places on organisations like ours to act in partnership with Māori. We are at the beginning of this journey and we commit to working better as we grow in understanding.
+
+Nō reira, tēnei mātou e mihi ana ki ngā mana whenua katoa o tēnei motu. Tēnei mātou, tēnei tūāhu ki runga i a koutou.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+EXECUTIVE SUMMARY
+
+Digital Futures Aotearoa (DFA) is a three-year programme designed to address the digital divide affecting communities experiencing poverty and isolation across Aotearoa New Zealand. The programme will provide affordable internet access, digital devices, and digital literacy training to 12,000 households over the period 2026 to 2029.
+
+Digital exclusion sits at the intersection of multiple deprivations — income poverty, geographic isolation, and educational disadvantage — and compounds inequality by limiting access to essential services, employment, education, and social connection. In Aotearoa, Māori communities are significantly overrepresented among the digitally excluded, reflecting the broader legacy of colonisation and the ongoing maldistribution of resources.
+
+Digital Futures Aotearoa is designed to be more than a technical solution. The programme is structured around relationships: with community organisations, with whānau, and — critically — with the values and aspirations of the communities we serve. We recognise that meaningful digital equity requires not just connection but the capability, confidence, and content to make digital tools useful and relevant to people's lives.
+
+The programme will be delivered through a network of 38 community partner organisations across 14 regions of Aotearoa. A dedicated Māori Digital Equity Strand, comprising 30% of programme resources, will be developed and governed in partnership with a Māori Advisory Group to be constituted in Q1 2026.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 1: CONTEXT AND RATIONALE
+
+1.1 The Digital Divide in Aotearoa
+
+Approximately 14% of New Zealand households do not have access to the internet at home. In low-income communities, this figure rises to 31%. In rural and remote areas, geographic barriers compound the income barrier, with slow or unavailable broadband infrastructure affecting an estimated 180,000 households.
+
+The 2023 Digital Inclusion Research report, commissioned by the Department of Internal Affairs, found that Māori are 1.6 times more likely to experience digital exclusion than the general population. Pasifika communities are 1.9 times more likely. Among low-income rural Māori communities, digital exclusion rates approach 45%.
+
+The consequences of digital exclusion are increasingly severe as government services, employment, education, and healthcare move online. The COVID-19 pandemic exposed these vulnerabilities acutely, with digitally excluded communities disproportionately unable to access remote learning, telehealth services, and emergency support during lockdowns.
+
+1.2 The Role of Digital Equity in Tino Rangatiratanga
+
+Connected Communities Trust understands digital access not merely as a technical problem but as a matter of equity and rights. We draw on the concept of Tino Rangatiratanga — Māori self-determination — as a framework for thinking about digital equity for Māori communities.
+
+Access to information, communication, and knowledge systems is a dimension of rangatiratanga. When communities are excluded from digital participation, their ability to exercise authority over their own lives, to participate in civic processes, to access their own cultural knowledge online, and to build economic capability is compromised.
+
+We are aware that this framing requires us to do more than provide devices and connectivity. It requires us to ask: who owns the data? Who controls the platforms? Whose values are embedded in the tools? These are questions we do not yet have complete answers to, but they shape our approach.
+
+1.3 Policy Context
+
+Digital Futures Aotearoa sits within a supportive policy environment. Key policy documents that inform our approach include:
+
+- Aotearoa New Zealand's Digital Strategy 2030: Identifies digital inclusion as a priority, with specific reference to Māori and Pacific communities.
+- He Korowai Oranga (Māori Health Strategy): While a health strategy, its holistic model of wellbeing — encompassing whānau, hapū, iwi, and community — informs our thinking about the social determinants of digital exclusion.
+- Te Ara Poutama (Department of Corrections Māori Strategy): Referenced here for its model of embedding Māori values into institutional practice.
+- United Nations Declaration on the Rights of Indigenous Peoples (UNDRIP): Article 16 affirms the right of Indigenous peoples to establish their own media in their own languages and to have access to all forms of non-Indigenous media without discrimination. We acknowledge that digital access is an extension of this right.
+
+1.4 Why Connected Communities Trust
+
+Connected Communities Trust (CCT) has been operating in the digital equity space since 2013. We have distributed over 28,000 devices, facilitated 3.4 million hours of digital training, and supported 640 community partner organisations across Aotearoa.
+
+Our previous work has included specific programmes in Māori communities, including a pilot in partnership with a Waikato marae that delivered broadband connectivity and digital training to 180 whānau between 2022 and 2024. This experience has been formative for our thinking about what culturally grounded digital equity work looks like and what we still need to learn.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 2: PROGRAMME DESIGN
+
+2.1 Programme Principles
+
+The following principles have been developed through internal reflection and initial consultation with Māori and Pacific community partners. They will be reviewed and potentially revised through the advisory group processes planned for Q1–Q2 2026.
+
+1. Community authority: Communities know what they need. Our role is to support, resource, and connect, not to direct. This applies across all communities we serve, and especially to Māori communities.
+
+2. Partnership before programme: We will not deploy services into Māori communities without first establishing genuine relationships with relevant community organisations, kaumātua, and hapū where we can identify them.
+
+3. Data sovereignty: We acknowledge the principles of Te Mana Raraunga, the Māori Data Sovereignty Network. We commit to working with Māori communities to develop data governance arrangements that give them appropriate authority over information about them.
+
+4. Capability, not dependency: We aim to build lasting digital capability in communities, not dependency on our organisation. Exit strategies and handover plans are built into our delivery model from the start.
+
+5. Cultural safety: Digital training and support must be delivered in ways that are culturally safe for all participants. For Māori communities, this means training environments that acknowledge and affirm Māori identity, values, and ways of being.
+
+2.2 Programme Strands
+
+The programme comprises three strands:
+
+Strand A: General Digital Equity (55% of resources)
+Targeted at households experiencing digital exclusion regardless of ethnicity, with a focus on low-income urban and rural communities. Delivered primarily through existing CCT community partner network.
+
+Strand B: Pacific Digital Equity (15% of resources)
+Developed in partnership with Pacific community organisations. Design and delivery led by Pacific partners, with CCT in a resourcing and backbone support role.
+
+Strand C: Māori Digital Equity (30% of resources)
+The Māori Digital Equity Strand is the most significant single component of DFA in proportional terms. It will be governed by a Māori Advisory Group to be constituted in Q1 2026. CCT is in the process of reaching out to potential advisory group members, including representatives from relevant iwi social services providers, Māori digital innovators, and kaupapa Māori education providers. We acknowledge that the design of this strand needs to be co-created with Māori, not determined by CCT.
+
+2.3 Māori Digital Equity Strand — Design Intentions
+
+While the detailed design of the Māori strand will emerge from advisory group processes, we can articulate our current design intentions:
+
+- Prioritise wāhi that are led by Māori organisations, not just located in Māori communities
+- Explore digital tools and platforms that support the revitalisation of te reo Māori and the preservation and transmission of mātauranga Māori
+- Ensure training content is available in te reo Māori and reflects tikanga-aligned values and examples
+- Investigate models where iwi or hapū have governance and ownership of digital infrastructure deployed in their rohe
+- Develop a Māori Data Governance Framework in partnership with the advisory group, informed by Te Mana Raraunga principles
+
+2.4 Delivery Model
+
+The programme will be delivered through a network model, with CCT as the backbone organisation and 38 community partner organisations as frontline delivery agents. CCT will provide:
+
+- Procurement and distribution of devices and connectivity
+- Funding and relationship management with community partners
+- Training resources and curriculum development (with Māori strand curriculum developed by/with Māori)
+- Data systems and reporting
+- National advocacy and policy engagement
+
+Community partners will be responsible for:
+- Direct relationship management with whānau and households
+- Facilitation of digital training
+- Local outreach and engagement
+- Culturally appropriate support for participants
+
+2.5 Intake and Assessment
+
+Households seeking support will be assessed against eligibility criteria focused on income, existing access, and geographic location. Referrals will be accepted from community partners, social services, and self-referral. A streamlined online referral process will be supplemented by phone and in-person options to ensure accessibility for those with limited current digital access.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 3: TREATY OF WAITANGI OBLIGATIONS
+
+3.1 Our Understanding of Te Tiriti
+
+Connected Communities Trust accepts that Te Tiriti o Waitangi creates specific obligations for organisations receiving public funding and operating in Aotearoa. We understand the three core principles most commonly derived from Te Tiriti — Partnership, Participation, and Protection — as follows:
+
+Partnership: We have a responsibility to work alongside Māori as partners, not as recipients of our programmes. This means Māori should have a genuine voice in programme design, delivery, and evaluation. We acknowledge that our current governance structure does not yet fully reflect this — there are no Māori trustees on our board, though we have committed to addressing this by 2027.
+
+Participation: Māori should participate in our programmes as full citizens, not merely as a "target population." We recognise that this requires deliberate effort to remove the cultural, linguistic, and material barriers that can prevent participation.
+
+Protection: We have an obligation to actively protect Māori interests, including taonga such as language, cultural knowledge, and data. Our commitments around te reo, mātauranga Māori, and data sovereignty flow from this principle.
+
+3.2 Limitations and Gaps We Acknowledge
+
+We are honest about the limitations of our current Te Tiriti capability:
+
+- Our governance structure is not yet partnership-aligned — we are working to change this
+- We do not currently have deep relationships with specific iwi or hapū across most of our programme regions — this must change before programme deployment
+- Our track record on data sovereignty is limited — we have not previously had formal data governance arrangements with Māori
+- Our staff do not have consistent te reo Māori proficiency — we have committed to supporting te reo learning as part of staff development
+
+We understand that acknowledging these gaps is the beginning of accountability, not the end of it.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 4: ENGAGEMENT APPROACH
+
+4.1 Engagement Completed to Date
+
+Our programme planning has involved the following engagement:
+
+- National hui with digital equity sector partners (150 participants, August 2025): Included breakout sessions specifically for Māori and Pacific participants. Key themes from Māori participants included data sovereignty, the importance of Māori-led delivery in Māori communities, and frustration with organisations that consult but do not act.
+
+- Four regional community partner workshops (combined 62 participants): Partners from both Māori and non-Māori organisations participated. Common themes included the need for adequate resourcing for cultural adaptation of programme components.
+
+- Preliminary conversations with three iwi social services organisations: These have been exploratory. CCT has not yet made commitments to these organisations but intends to formalise partnership discussions in Q1 2026.
+
+- Engagement with Te Mana Raraunga (Māori Data Sovereignty Network): One meeting with network representatives to understand their principles and discuss how they might apply to our programme.
+
+4.2 Planned Engagement Activities
+
+Prior to programme launch (Q1–Q2 2026):
+- Constitute and convene the Māori Advisory Group (minimum four members, all Māori, representing a range of regional and community perspectives)
+- Conduct a series of regional hui in target communities with significant Māori populations
+- Formalise partnership agreements with Māori-led community organisations in at least six priority regions
+- Engage with mana whenua for the geographic areas where programme activities will be concentrated
+
+During programme delivery:
+- Quarterly advisory group hui
+- Annual community partner network hui with dedicated Māori stream
+- Ongoing relationship management with iwi partners
+- Participation monitoring and responsive engagement with communities where participation is below target
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 5: DATA GOVERNANCE AND PRIVACY
+
+5.1 Data Principles
+
+CCT collects data about programme participants to manage programme delivery, demonstrate impact to funders, and improve our services. We are committed to collecting only what we need, retaining data only for as long as necessary, and protecting data against unauthorised access.
+
+5.2 Māori Data Sovereignty
+
+We acknowledge that data collected about Māori individuals, whānau, and communities belongs, in a meaningful sense, to Māori. We commit to:
+
+- Developing a Māori Data Governance Framework in partnership with the Māori Advisory Group during Q1–Q2 2026
+- Not sharing disaggregated data about Māori participants with third parties without appropriate governance consent
+- Exploring, with iwi partners, models where data about Māori communities can be held and governed by those communities
+
+We acknowledge that our ability to implement these commitments depends on the governance arrangements we are able to develop with Māori partners — arrangements that are not yet in place.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 6: BUDGET AND RESOURCES
+
+Total three-year programme budget: $8,240,000
+
+Funding allocation by strand:
+- General Digital Equity (Strand A): $4,532,000 (55%)
+- Pacific Digital Equity (Strand B): $1,236,000 (15%)
+- Māori Digital Equity (Strand C): $2,472,000 (30%)
+
+Budget breakdown — total programme:
+- Devices and connectivity: $3,840,000
+- Community partner grants and contracts: $2,160,000
+- CCT staff — programme delivery: $980,000
+- Cultural adaptation and advisory group processes: $360,000
+- Evaluation and data systems: $320,000
+- Communications and outreach: $180,000
+- Administration and overhead: $400,000
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 7: EVALUATION FRAMEWORK
+
+7.1 Outcomes Framework
+
+The programme will be evaluated against the following key outcomes:
+
+- Number of households connected (target: 12,000 over three years)
+- Digital capability improvements as measured by validated digital skills assessment
+- Self-reported confidence and wellbeing outcomes
+- Māori-specific outcomes to be determined in partnership with Māori Advisory Group
+
+7.2 Learning and Adaptation
+
+DFA is designed as a learning programme. We will conduct mid-programme reviews at 18 months and will adjust programme design and delivery based on evidence of what is working and for whom. The Māori Advisory Group will have a specific mandate to assess the Māori strand and recommend changes.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CLOSING STATEMENT
+
+Digital Futures Aotearoa is an ambitious programme and an honest one. We know what we don't know. We recognise the gaps in our current approach and the work required to move from good intentions to genuine partnership. We commit to this programme being a vehicle for our own organisational learning as much as a resource for the communities we aim to serve.
+
+We remain accountable to the communities we work with, to our funders, and to the obligations of Te Tiriti o Waitangi. We invite challenge, critical feedback, and collaboration as we work to do this better.
+
+Mā te huruhuru ka rere ai te manu.
+With feathers, the bird can fly.

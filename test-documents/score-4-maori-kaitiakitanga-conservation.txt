@@ -1,0 +1,254 @@
+WAIKATO FRESHWATER RESTORATION PROGRAMME
+Partnership Strategy and Implementation Framework
+A Joint Initiative: Waikato River Authority, Tainui o Tainui Hapū, and Freshwater Aotearoa Trust
+Date: November 2025
+Version: 3.0 — FINAL, APPROVED BY JOINT GOVERNANCE GROUP
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+KARAKIA TIMATANGA
+
+He mihi ki a Papatūānuku, ki a Ranginui
+Ki ngā Atua o te wao, o te ngākina, o te moana
+Tēnei mātou e tū ana i runga i ō koutou tuarā
+E tiaki ana, e whakaora ana i ō koutou taonga
+
+We stand upon your shoulders, guardians of what was entrusted.
+We begin this work with reverence and responsibility.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+FOREWORD FROM THE JOINT GOVERNANCE GROUP
+
+This programme was not designed by one organisation for another. It was built in relationship, over two years of conversation, disagreement, learning, and trust-building between Tainui o Tainui hapū, the Waikato River Authority, and Freshwater Aotearoa Trust.
+
+The Waikato River is not a resource. For Tainui o Tainui, Waikato Awa is tupuna — an ancestor whose health is inseparable from the health of the people who belong to it. The framework that follows reflects an attempt to build an institutional programme that honours this relationship, not merely acknowledges it.
+
+We present this framework knowing it is imperfect. The governance structures are still evolving. The data sovereignty provisions are ambitious and will require sustained effort to implement fully. The IP provisions represent a harder negotiation than most partnerships we are aware of. We share these tensions openly because we believe transparency about the work that remains is more useful than pretending we have arrived.
+
+Ngā mihi maioha ki ngā rangatira katoa o tēnei mahi.
+
+— Co-signed by the Joint Governance Group Chairs:
+   Ngāti Tainui Hapū Trust (Māori co-chair)
+   Waikato River Authority (Crown co-chair)
+   Freshwater Aotearoa Trust (Sector representative)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 1: TE TIRITI O WAITANGI AS STRUCTURAL FOUNDATION
+
+1.1 Our Approach to Te Tiriti
+
+This programme treats Te Tiriti o Waitangi not as a compliance obligation but as the structural foundation from which all design decisions flow. We acknowledge that Te Tiriti guarantees Māori — specifically mana whenua hapū — the authority (tino rangatiratanga) over their taonga, including freshwater bodies, lands, and wāhi tapu within their rohe.
+
+The programme has been designed from the outset with the explicit intent of giving effect to tino rangatiratanga, not merely consulting with Māori. This requires us to name clearly what we mean:
+
+- Tainui o Tainui hapū hold decision-making authority on matters pertaining to the Waikato Awa and its tributaries within their rohe. The programme's governance structures reflect this.
+- Freshwater Aotearoa Trust and the Waikato River Authority are not the senior partners in this work. They are partners with specific technical, funding, and administrative roles — roles that exist in service of hapū-led restoration.
+- Where there is conflict between programme operational preferences and hapū authority over the awa, the default is hapū authority.
+
+1.2 Waitangi Tribunal Context
+
+The Waitangi Tribunal's Wai 2358 inquiry (2017) found that the Crown's management of the Waikato River had breached Te Tiriti by failing to give effect to Māori rights and authority over the awa. This programme is situated within the ongoing effort to respond to those findings — not as a final remedy, but as part of a longer arc of repair.
+
+The Waikato Tainui Raupatu Claims Settlement Act 1995 established the basis for the Waikato River settlement and the co-governance arrangements that followed. We acknowledge that the settlement did not fully address all historical grievances and that our partnership must be understood as operating within an ongoing process of recognition and redress.
+
+1.3 Pae Ora (Healthy Futures) Act 2022 — Relevance
+
+The Pae Ora Act's recognition of hauora Māori as a health system obligation reinforces the connections between environmental health and whānau wellbeing that are central to this programme. The health of the Waikato Awa is not separable from the health of the people who are kaitiaki of it. Restoration of the awa's mauri directly supports hauora outcomes for Waikato Tainui communities.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 2: MANA WHENUA AUTHORITY AND KAITIAKITANGA
+
+2.1 Mana Whenua Identification
+
+This programme operates within the rohe of Tainui o Tainui hapū, whose ancestral connection to the Waikato Awa is documented in oral tradition, whakapapa, and legal recognition through the Waikato Raupatu settlement.
+
+The relevant hapū entities engaged as co-designers and co-governors of this programme are:
+- Ngāti Hauā Tribal Trust
+- Ngāti Mahanga Tribal Authority
+- Raukawa Settlement Trust (participating observer)
+- Waikato Tainui Environmental Management Unit (technical and advisory)
+
+Engagement with each hapū entity began in 2023 through a series of marae-based hui facilitated by the hapū themselves. The programme design emerged from those conversations, not from a pre-designed framework presented for feedback.
+
+2.2 Kaitiakitanga as Governance Framework
+
+Kaitiakitanga — the ethic and practice of intergenerational environmental guardianship — is the overarching framework for this programme's environmental work. This is not metaphorical. The programme's restoration priorities, monitoring indicators, and success metrics have all been developed in dialogue with hapū kaitiaki (guardians) and are oriented around restoring the mauri of the awa.
+
+Key expressions of kaitiakitanga in the programme include:
+
+a) Mauri monitoring: The programme will use a Māori-designed mauri assessment tool — the Mauri-ometer developed by Mason Durie and adapted by the Waikato Tainui Environmental Management Unit — alongside conventional water quality metrics. Both datasets are treated as equally valid measures of ecosystem health.
+
+b) Rahui: The programme will support the exercise of rahui (temporary restrictions on gathering or use) by hapū kaitiaki in response to environmental stress events. Rahui will be communicated to programme partners and where possible to the broader public through agreed protocols.
+
+c) Wāhi tapu protection: A register of wāhi tapu associated with the awa has been compiled in partnership with hapū, held exclusively by hapū, and used to guide programme activities. The register is not publicly available and is not shared with Crown or non-Māori agencies without hapū consent.
+
+2.3 Limits of This Framework
+
+We acknowledge the limits of what this programme can achieve with respect to kaitiakitanga. The deepest expressions of kaitiakitanga — the ceremonial, spiritual, and relational dimensions of the hapū-awa relationship — are not within scope for a funded restoration programme. We do not attempt to operationalise these dimensions, nor do we claim authority over them. The programme's role is to support the conditions in which kaitiaki can exercise their responsibilities more fully.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 3: GOVERNANCE STRUCTURE
+
+3.1 Joint Governance Group
+
+The programme is governed by a Joint Governance Group (JGG) comprising:
+
+Hapū representatives (majority):
+- Three representatives nominated by the hapū entities above, rotated on a two-year cycle
+- The hapū chair of the JGG is the presiding authority
+
+Crown and sector representatives:
+- One representative of the Waikato River Authority
+- One representative of Freshwater Aotearoa Trust
+- One independent environmental scientist (non-voting technical advisor)
+
+Decision-making: All substantive programme decisions require consensus at the JGG level. Where consensus cannot be reached, hapū representatives have the deciding vote on matters relating to the awa, wāhi tapu, and mātauranga Māori. Freshwater Aotearoa Trust has the deciding vote on matters relating solely to its own funding obligations.
+
+Quorum: No meeting is quorate without a majority of hapū representatives present.
+
+3.2 Hapū-Led Technical Working Groups
+
+Two technical working groups operate under the JGG:
+
+a) Environmental Restoration Working Group: Led by the Waikato Tainui Environmental Management Unit, with participation from Freshwater Aotearoa Trust ecologists. All restoration work plans must be approved by this group before implementation.
+
+b) Mātauranga Māori Working Group: Comprising hapū kaumātua, tohunga (specialists), and younger kaitiaki. This group holds exclusive authority over matters relating to mātauranga Māori, including the use of traditional ecological knowledge in the programme. Meeting notes from this group are not shared externally without group consent.
+
+3.3 Conflicts of Interest Protocol
+
+A robust conflicts of interest protocol has been developed to manage situations where individual JGG members may have personal or professional interests that could influence programme decisions. The protocol was developed by a hapū-led working group and reviewed by an independent governance advisor.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 4: PROGRAMME ACTIVITIES
+
+4.1 Freshwater Restoration Workstream
+
+The freshwater restoration workstream focuses on four priority catchments identified by hapū kaitiaki as requiring urgent intervention. Activities include:
+
+- Riparian planting using species selected by hapū (preference for culturally significant and locally endemic species)
+- Fencing of waterway margins (target: 140km over three years)
+- Removal of invasive willows and alders (using methods that minimise disruption to cultural sites identified in the wāhi tapu register)
+- Restoration of wetland areas adjacent to three significant hapū sites
+- Fish passage improvement at six identified locations
+
+All on-ground restoration work will be contracted preferentially to hapū-owned or hapū-affiliated enterprises, then to Māori businesses, and then to mainstream contractors as a last resort. This is a programme procurement principle, not a soft preference.
+
+4.2 Mātauranga Māori Integration
+
+The programme integrates mātauranga Māori (Māori traditional knowledge) as a substantive and co-equal input alongside western ecological science. This integration is governed by the Mātauranga Māori Working Group (see 3.2b).
+
+Specific activities include:
+
+- Traditional planting practices: Riparian planting will follow tikanga-aligned planting protocols, including attention to maramataka (Māori lunar calendar) for optimal planting times. This will be guided by hapū specialists and will inform planting scheduling programme-wide.
+- Tohu (environmental indicators): Hapū kaitiaki will document traditional environmental indicators for awa health, including the presence and behaviour of indicator species such as kōura (freshwater crayfish), kākahi (freshwater mussels), and specific bird species. These will be incorporated into the monitoring framework alongside standard biological indices.
+- Oral history collection: A hapū-led oral history project will document knowledge of the awa's historical state, significant environmental events, and traditional management practices. This knowledge is owned by hapū and held in a hapū-controlled digital repository.
+
+Intellectual Property: All mātauranga Māori knowledge contributed to this programme, including oral history recordings, traditional ecological knowledge, and cultural indicators, is owned by the relevant hapū. Freshwater Aotearoa Trust and the Waikato River Authority have a non-exclusive licence to use this knowledge for the purposes of this programme only. Any use beyond the programme scope requires written hapū consent.
+
+4.3 Monitoring and Evaluation
+
+The monitoring framework combines:
+- Standardised freshwater quality indices (NIWA methodology)
+- Mauri assessment using the Mauri-ometer tool
+- Hapū kaitiaki observations (documented through a structured field recording tool co-designed with hapū)
+- Annual JGG-led programme review
+
+Monitoring data is co-owned by hapū entities and programme partners. Reporting to funders will be agreed with hapū before publication. Hapū retain the right to withhold from public reports any information they consider culturally sensitive.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 5: DATA SOVEREIGNTY
+
+5.1 Te Mana Raraunga Alignment
+
+This programme is committed to the principles of Te Mana Raraunga (Māori Data Sovereignty Network) and has developed data governance provisions in active partnership with hapū entities. Our approach is grounded in the following Te Mana Raraunga principles:
+
+- Rangatiratanga: Hapū hold authority over data about their rohe, their people, and their cultural knowledge.
+- Whakapapa: Data relationships and connections are acknowledged and maintained.
+- Kotahitanga: Data governance supports collective hapū benefit.
+- Manaakitanga: Data processes respect and uphold human dignity.
+
+5.2 Data Governance Provisions
+
+a) Ownership: Environmental data collected within hapū rohe is co-owned by the relevant hapū entities and programme partners. Mātauranga Māori data is owned solely by hapū.
+
+b) Control: Hapū have veto power over external publication of any data collected within their rohe. A 30-day hapū review period is built into all external reporting processes.
+
+c) Access: A tiered access model has been developed: open data (aggregate environmental metrics), restricted data (site-specific monitoring data accessible to JGG members), and hapū-only data (mātauranga Māori repository, wāhi tapu register).
+
+d) Possession: Raw data is stored in a shared secure system with hapū-held encryption keys for hapū-owned data sets. Hapū can withdraw their data from the shared system at any time.
+
+e) Protection: An Information Security Policy, developed with hapū input and reviewed by a Māori technology specialist, governs data security protocols.
+
+5.3 Current Limitations
+
+We acknowledge that our data infrastructure does not yet fully realise these principles. The hapū-controlled digital repository for mātauranga Māori is under development and is not expected to be operational until Q2 2026. Until then, mātauranga data is held by the Waikato Tainui Environmental Management Unit under protocols agreed with hapū.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 6: RECIPROCITY AND COMMUNITY BENEFIT
+
+6.1 Economic Reciprocity
+
+The programme takes seriously the obligation not to extract knowledge, labour, and resource from hapū without reciprocal benefit. Reciprocity provisions include:
+
+- Preferential procurement: Minimum 60% of programme expenditure targeted at hapū-owned or hapū-affiliated businesses (year one actual: 67%).
+- Kaitiaki recognition payment: Hapū kaitiaki who provide time, knowledge, and expertise to the programme receive recognition payments at market rates for specialist environmental consulting. Kaumātua who participate in programme governance and knowledge-sharing receive koha at rates set by hapū.
+- Capacity investment: Freshwater Aotearoa Trust is funding two full-time positions within the Waikato Tainui Environmental Management Unit specifically to support programme delivery — positions that remain within the hapū entity at programme end.
+
+6.2 Environmental Reciprocity
+
+The programme recognises that environmental restoration is itself a form of reciprocity — returning mauri to an awa that has been damaged, in many cases by Crown and private sector action. The restoration targets have been set in consultation with hapū based on their vision for the awa's health, not based on what the programme funders consider achievable.
+
+6.3 Knowledge Reciprocity
+
+Programme partners commit to learning from hapū kaitiaki and to adjusting scientific approaches where mātauranga Māori offers different or deeper insight. This is not a one-directional flow where western science is the standard against which mātauranga is assessed. An annual cross-disciplinary knowledge exchange hui is built into the programme calendar.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 7: WHAT REMAINS INCOMPLETE
+
+The Joint Governance Group agreed that this document should be honest about what is not yet resolved.
+
+7.1 Crown Engagement Gap
+
+The programme does not yet have a formal engagement mechanism with the relevant Crown agencies (particularly the Ministry for the Environment and Waikato Regional Council) that would allow hapū to exercise tino rangatiratanga more fully in freshwater management regulation. We acknowledge that partnership at programme level is meaningful but insufficient — the regulatory framework for freshwater management still fails to give adequate effect to Māori authority. This is beyond the scope of this programme to resolve, but we name it as the larger context.
+
+7.2 IP Provisions — Ongoing Negotiation
+
+The IP provisions described in Section 4.2 represent the current agreed position, but are subject to ongoing negotiation. The hapū entities consider the current provisions to be a floor, not a ceiling. Discussions are continuing about whether programme-generated environmental reports that include mātauranga Māori insights should be hapū-owned rather than co-owned. This will be resolved through the JGG process.
+
+7.3 Governance Balance
+
+The current governance structure gives hapū a majority voice but not exclusive authority over all programme decisions. This reflects a negotiated compromise. Some hapū representatives have expressed that the structure still places too much structural weight on external partner consent. This tension is acknowledged and will be revisited in the Year Two programme review.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+KARAKIA WHAKAMUTUNGA
+
+Unuhia, unuhia, unuhia ki uta rā
+Kia wātea, kia māmā
+Te ngākau, te tinana, te wairua i ēnei mahi
+Āe rā. Āmine.
+
+Be released, be free.
+May the heart, the body, the spirit be cleared
+through this work.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+APPENDICES:
+Appendix A — Joint Governance Group Terms of Reference
+Appendix B — Hapū Engagement Hui Summary (2023–2024)
+Appendix C — Mauri Assessment Framework and Indicators
+Appendix D — Preferential Procurement Policy
+Appendix E — Data Governance Agreement
+Appendix F — IP Agreement (redacted version for public circulation)
+Appendix G — Wāhi Tapu Register Protocol (public version)
+Appendix H — Year One Budget and Expenditure Report
+Appendix I — Kaitiaki Recognition Payment Schedule

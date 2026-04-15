@@ -1,13 +1,13 @@
 'use client';
 
-import { useState, useRef, useCallback, useEffect } from 'react';
+import { useState, useRef, useCallback, useEffect, useMemo } from 'react';
 import type { Annotation, AnnotationType, ReviewResult } from '@/lib/types';
 
 const TYPE_LABELS: Record<AnnotationType, string> = {
   positive: 'Strength',
   observation: 'Observation',
   provocation: 'Provocation',
-  action: 'Action Required',
+  action: 'Action',
 };
 
 // --- Text segmentation for inline highlights ---
@@ -124,7 +124,11 @@ interface TextDocumentProps {
 }
 
 function TextDocument({ text, annotations, activeId, onHighlightClick, markRefs }: TextDocumentProps) {
-  const segments = buildSegments(text, annotations);
+  const segments = useMemo(() => buildSegments(text, annotations), [text, annotations]);
+  const annById = useMemo(
+    () => new Map(annotations.map((a) => [a.id, a])),
+    [annotations],
+  );
 
   return (
     <div className="text-document">
@@ -132,7 +136,7 @@ function TextDocument({ text, annotations, activeId, onHighlightClick, markRefs 
         if (seg.annotationId === null) {
           return <span key={i}>{seg.text}</span>;
         }
-        const ann = annotations.find((a) => a.id === seg.annotationId)!;
+        const ann = annById.get(seg.annotationId)!;
         return (
           <mark
             key={i}
@@ -213,6 +217,13 @@ export default function ReviewViewer({ result, documentText, pdfUrl, onNewReview
       {/* Summary */}
       <div className="viewer-summary">
         <p>{result.summary}</p>
+      </div>
+
+      <div className="viewer-legend" aria-label="Review legend">
+        <span className="viewer-legend-item viewer-legend-item--positive">Strength</span>
+        <span className="viewer-legend-item viewer-legend-item--observation">Observation</span>
+        <span className="viewer-legend-item viewer-legend-item--provocation">Provocation</span>
+        <span className="viewer-legend-item viewer-legend-item--action">Action</span>
       </div>
 
       {/* Body */}

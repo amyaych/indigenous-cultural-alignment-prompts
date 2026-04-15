@@ -1,0 +1,228 @@
+COMMUNITY HEALTH OUTREACH PROGRAMME
+Programme Design Document
+Prepared by: Vitalia Health Services Charitable Trust
+Funded by: Ministry of Health — Equity Funding Round 4
+Date: February 2026
+Status: FINAL FOR SUBMISSION
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+EXECUTIVE SUMMARY
+
+Vitalia Health Services Charitable Trust (Vitalia) presents this Programme Design Document in support of our application for equity funding to deliver the Community Health Outreach Programme (CHOP) across South Auckland from 2026 to 2029.
+
+Vitalia is a registered charitable trust established in 2017 to address health inequities in underserved communities across the Auckland region. We deliver primary health, mental health, and chronic disease management services from three clinic locations. Our registered patient base of 14,200 individuals reflects a diverse community that includes Pacific peoples, Māori, recent migrants, and low-income New Zealand families.
+
+The Community Health Outreach Programme is designed to take our services beyond the clinic walls and into the places where our highest-need patients live, work, and gather. The programme will deploy four mobile health units, establish partnerships with community organisations, and create a network of community health navigators to support access for people who currently do not engage with traditional health services.
+
+Our equity data shows that Māori make up 21% of our registered patient base but account for 38% of our emergency presentations and have the poorest chronic disease outcomes of any group we serve. Addressing this disparity is a central concern of the CHOP programme.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 1: ORGANISATIONAL BACKGROUND AND CAPABILITY
+
+1.1 About Vitalia Health Services
+
+Vitalia Health Services Charitable Trust has been delivering community health services in South Auckland since 2017. We were founded by a group of GPs who recognised that traditional primary health care models were not reaching the most vulnerable members of our community — people experiencing financial hardship, those without reliable transport, those with limited English, and those who had historically disengaged from the health system due to poor prior experiences.
+
+Our three clinic locations are based in Māngere, Ōtāhuhu, and Manurewa. We operate extended hours from 7am to 9pm Monday to Friday and 8am to 6pm on weekends. We employ 87 staff including GPs, registered nurses, mental health counsellors, social workers, and administrative staff.
+
+1.2 Governance and Leadership
+
+Vitalia is governed by a Board of Trustees comprising seven members. The Board includes health professionals, community representatives, and governance specialists. Our current board composition includes one trustee of Māori descent who brings knowledge of hauora Māori principles.
+
+Our Chief Executive Officer has a background in public health and 14 years of experience in the not-for-profit health sector. Our Clinical Director is a GP with specific expertise in chronic disease management and equity-focused care.
+
+1.3 Relevant Track Record
+
+Previous programmes delivered by Vitalia include:
+
+- South Auckland Diabetes Management Programme (2020–2023): Delivered intensive diabetes management support to 1,240 patients. Achieved a 22% reduction in HbA1c levels among engaged patients. Māori patients comprised 24% of the programme cohort.
+- Mental Health First Response Initiative (2021–2024): Provided community-based mental health first response across Māngere and Ōtāhuhu. Diverted approximately 340 presentations per year from emergency departments.
+- Healthy Homes Navigation Service (2022 ongoing): Supports patients to address social determinants of health including housing quality, food security, and benefits access.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 2: NEEDS ASSESSMENT
+
+2.1 Health Inequity in South Auckland
+
+South Auckland carries a disproportionate burden of health inequality relative to other parts of New Zealand. The region has the highest rates of preventable hospitalisation, the lowest life expectancy, the highest rates of type 2 diabetes, rheumatic fever, and respiratory disease in the Auckland region.
+
+These inequities are not random — they are the predictable result of historical inequities in the distribution of wealth, land, housing, education, and opportunity. South Auckland's demographics reflect the ongoing consequences of these structural inequities.
+
+2.2 Māori Health Inequity Data
+
+The health gap between Māori and non-Māori New Zealanders is well-documented. In our own service data:
+
+- Māori patients present to our clinics on average 1.8 years later in the trajectory of chronic conditions compared to non-Māori patients.
+- Emergency presentation rates for Māori patients are 2.1 times higher than for non-Māori patients in equivalent socioeconomic groups.
+- Māori patients report lower satisfaction with health services overall, with common themes of feeling rushed, not being listened to, and experiencing implicit bias.
+- Screening rates for cervical cancer, bowel cancer, and breast cancer among Māori women in our catchment are consistently 12-18 percentage points below the national Māori average.
+
+These data points reflect a systemic failure to engage Māori patients in healthcare that meets their needs and respects their dignity. The CHOP programme is designed, in part, to begin addressing this failure.
+
+2.3 Barriers to Access
+
+Our community needs assessment, conducted in 2025 through patient surveys, focus groups, and analysis of non-attendance data, identified the following primary barriers to health access:
+
+1. Transport: 34% of non-attenders cited lack of transport as the primary barrier.
+2. Work and income constraints: 28% reported being unable to take time off work.
+3. Cost: 19% reported financial barriers, despite our low-cost service model.
+4. Cultural discomfort: 14% cited feeling unwelcome or unable to communicate effectively in clinical settings.
+5. Past negative experiences: 11% indicated prior negative experiences had deterred re-engagement.
+
+Cultural discomfort was disproportionately reported by Māori respondents (31%) and Pacific respondents (22%), compared to 8% among non-Māori non-Pacific respondents.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 3: PROGRAMME DESIGN
+
+3.1 Theory of Change
+
+The CHOP programme is built on the theory that health outcomes improve when services are physically, culturally, and financially accessible. By removing the barriers of transport, cost, and cultural discomfort — and by meeting people where they are — we can engage a population that is currently not receiving the preventive and primary care they need, before they reach the stage of acute crisis.
+
+3.2 Programme Components
+
+Component 1: Mobile Health Units
+
+Four fully-equipped mobile health units will operate across the South Auckland catchment. Each unit will be staffed by a registered nurse and a community health worker. Units will rotate across 16 fixed community sites including schools, churches, community centres, and marae.
+
+Sites have been selected based on population concentration, existing community trust, and the presence of anchor organisations. Two marae sites have been provisionally confirmed as mobile unit locations: these will serve as culturally appropriate touchpoints for whānau who are more comfortable in a Māori community environment than in a formal clinic setting.
+
+Mobile unit services will include:
+- Blood pressure, diabetes, and cholesterol screening
+- Immunisation
+- Mental health triage and referral
+- Prescription collection and medication adherence support
+- Social needs screening and navigation
+
+Component 2: Community Health Navigators
+
+Twelve community health navigators will be employed to provide intensive, wrap-around support to individuals identified as high-risk or high-need through the mobile unit programme. Navigators will have deep connections to the communities they serve.
+
+We intend to recruit navigators who reflect the communities they serve, including Māori and Pacific individuals with lived experience and existing community relationships. Navigators will be trained in motivational interviewing, health literacy, and social needs assessment.
+
+Component 3: Partnerships with Community Organisations
+
+CHOP will establish formal service-level agreements with a network of community anchor organisations including food banks, budget advisory services, mental health peer support providers, and early childhood centres.
+
+We will seek to establish relationships with relevant iwi social services providers in the catchment to explore coordination of services for Māori whānau. This is an area we acknowledge requires more development in the planning phase.
+
+3.3 Cultural Responsiveness
+
+Vitalia is committed to providing culturally responsive health services. We recognise that for Māori patients, the legacy of colonisation continues to shape health outcomes and engagement with health systems. We acknowledge the importance of Māori models of health such as Te Whare Tapa Whā (Durie, 1982) in informing a holistic approach to wellbeing.
+
+Our cultural responsiveness approach for CHOP includes:
+
+- Employing Māori health workers as community health navigators where possible
+- Providing cultural competency training for all CHOP staff, to be delivered by a contracted cultural advisor
+- Incorporating the use of te reo Māori in patient-facing materials
+- Locating two mobile unit sites at marae
+- Acknowledging Māori models of health in programme documentation and reporting
+
+We recognise that these steps are a starting point. We will seek feedback on our cultural responsiveness approach from Māori patients and community members as the programme progresses.
+
+3.4 Equity Focus
+
+CHOP is explicitly designed as an equity programme. We will monitor outcomes disaggregated by ethnicity, gender, age, and socioeconomic status. We are committed to Māori health equity as a programme goal and will report on progress against Māori-specific outcome indicators to our funders.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 4: ENGAGEMENT AND CONSULTATION
+
+4.1 Engagement Undertaken
+
+In developing the CHOP programme design, Vitalia undertook the following engagement activities:
+
+- Patient advisory group workshops (3 sessions, 22 participants including 7 Māori individuals)
+- Meetings with South Auckland Primary Health Organisation leadership
+- Discussion with the local iwi liaison officer at Auckland Council (one meeting, November 2025)
+- Survey of 640 non-attending or disengaged patients
+
+4.2 Key Themes from Engagement
+
+Engagement confirmed the priority issues identified in our needs assessment. Māori participants specifically raised the importance of seeing Māori faces in health services and of having health workers who understand tikanga and te reo. Concerns were raised about data privacy and how patient information might be shared.
+
+One Māori patient advisory group participant noted: "We're always consulted and then nothing changes. I want to see Māori people making the decisions, not just being asked."
+
+This feedback has been noted by the Vitalia leadership team. We acknowledge that our governance and decision-making structures do not yet fully reflect the communities we serve.
+
+4.3 Ongoing Engagement Plan
+
+During the programme, Vitalia will:
+
+- Convene a bi-annual patient and community advisory group including Māori and Pacific representation
+- Seek annual feedback through a culturally adapted patient experience survey
+- Report progress to the advisory group and make adjustments to the programme in response to feedback
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 5: EVALUATION AND LEARNING
+
+5.1 Evaluation Framework
+
+CHOP will be evaluated against a framework developed with input from the University of Auckland School of Public Health. The evaluation will include:
+
+- Process evaluation: Are we reaching our target populations? Are we delivering services as planned?
+- Outcome evaluation: Are health outcomes improving for those engaged?
+- Equity evaluation: Are we reducing disparities between Māori and non-Māori patients?
+
+5.2 Data Collection and Management
+
+Patient data will be stored in our existing electronic patient management system. Data will be de-identified for all evaluation reporting. We are aware of emerging discussions about Māori data sovereignty and the importance of Māori having appropriate rights over data collected about them. We commit to developing a data governance policy during the first year of the programme that will address these considerations.
+
+5.3 Reporting
+
+Vitalia will provide six-monthly progress reports and an annual evaluation report to the Ministry of Health. Reports will include disaggregated data by ethnicity and will highlight progress against Māori-specific indicators. We will share programme learnings through health sector networks and peer publications where appropriate.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 6: BUDGET OVERVIEW
+
+6.1 Total Programme Budget
+
+Total three-year programme budget: $4,680,000
+
+Breakdown:
+- Mobile health unit lease, fit-out, and maintenance: $840,000
+- Clinical staffing (nurses, community health workers): $1,620,000
+- Community health navigators (12 FTE, 3 years): $1,296,000
+- Cultural advisor (contracted): $96,000
+- Training and professional development: $78,000
+- Evaluation and data systems: $164,000
+- Community partnership grants: $240,000
+- Programme management and administration: $346,000
+
+6.2 Funding Mix
+
+Ministry of Health equity funding (requested): $3,500,000 (75%)
+Vitalia own-source funding (confirmed): $580,000 (12%)
+Auckland City Mission partnership contribution (confirmed): $240,000 (5%)
+Additional funding to be raised: $360,000 (8%)
+
+6.3 Value for Money
+
+Based on our cost modelling and evidence from comparable programmes, we project that each dollar invested in CHOP will generate $2.80 in avoided downstream health costs through reduced emergency department presentations, fewer acute hospitalisations, and better managed chronic conditions.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 7: CONCLUSION
+
+Vitalia Health Services Charitable Trust has a demonstrated track record of reaching the communities most affected by health inequity in South Auckland. The Community Health Outreach Programme builds on this foundation to significantly expand our reach, deepen our cultural responsiveness, and address the structural barriers that prevent Māori, Pacific, and low-income New Zealanders from accessing the health care they need.
+
+We recognise that our work on Māori health equity is a journey and that our programme design reflects where we are today, not where we need to ultimately be. We are committed to learning, adapting, and deepening our relationships with Māori communities as CHOP progresses.
+
+We are grateful for the Ministry of Health's investment in equity-focused primary care and look forward to demonstrating the impact of this programme over the funding period.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+APPENDICES:
+Appendix A — Vitalia Annual Report 2025
+Appendix B — Programme Logic Model
+Appendix C — Community Needs Assessment Report
+Appendix D — Letters of Support from Community Partners
+Appendix E — Financial Statements (Audited, 2024–2025)
+Appendix F — CV — Chief Executive Officer
+Appendix G — CV — Clinical Director
+Appendix H — Mobile Unit Site Confirmation Letters

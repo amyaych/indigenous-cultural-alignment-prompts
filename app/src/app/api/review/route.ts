@@ -1,6 +1,41 @@
 import Anthropic from '@anthropic-ai/sdk';
+import { headers } from 'next/headers';
 import { loadSystemPrompt } from '@/lib/prompts';
 import type { Region, ReviewType, ReviewResult, Annotation } from '@/lib/types';
+
+const MODEL = 'claude-opus-4-6';
+const MAX_TOKENS = 8192;
+const MAX_FILE_BYTES = 5 * 1024 * 1024; // 5 MB
+
+// Simple in-memory rate limiter: 5 requests per IP per minute
+const rateLimitStore = new Map<string, { count: number; resetAt: number }>();
+const RATE_WINDOW_MS = 60_000;
+const RATE_LIMIT = 5;
+
+function checkRateLimit(ip: string): boolean {
+  const now = Date.now();
+  const entry = rateLimitStore.get(ip);
+  if (!entry || now > entry.resetAt) {
+    rateLimitStore.set(ip, { count: 1, resetAt: now + RATE_WINDOW_MS });
+    return true;
+  }
+  if (entry.count >= RATE_LIMIT) return false;
+  entry.count++;
+  return true;
+}
+
+const ALLOWED_MIME_TYPES = new Set([
+  'application/pdf',
+  'text/plain',
+  'text/markdown',
+  'text/x-markdown',
+]);
+
+function isAllowedFile(file: File): boolean {
+  const byMime = ALLOWED_MIME_TYPES.has(file.type);
+  const byExt = /\.(pdf|txt|md)$/i.test(file.name);
+  return byMime || byExt;
+}
 
 const REVIEW_TOOL: Anthropic.Tool = {
   name: 'submit_review',
@@ -49,6 +84,13 @@ const REVIEW_TOOL: Anthropic.Tool = {
 };
 
 export async function POST(request: Request): Promise<Response> {
+  // Rate limiting
+  const headersList = await headers();
+  const ip = headersList.get('x-forwarded-for')?.split(',')[0].trim() ?? 'unknown';
+  if (!checkRateLimit(ip)) {
+    return new Response('Too many requests. Please wait a minute and try again.', { status: 429 });
+  }
+
   const formData = await request.formData();
 
   const region = formData.get('region') as Region | null;
@@ -57,12 +99,6 @@ export async function POST(request: Request): Promise<Response> {
   const documentFile = formData.get('documentFile') as File | null;
   const orgText = formData.get('orgText') as string | null;
   const orgFile = formData.get('orgFile') as File | null;
-
-  // Intake context fields
-  const role = formData.get('role') as string | null;
-  const sector = formData.get('sector') as string | null;
-  const localGroup = formData.get('localGroup') as string | null;
-  const iwiContext = formData.get('iwiContext') as string | null;
 
   if (!region || !reviewType) {
     return new Response('Missing region or reviewType', { status: 400 });
@@ -73,22 +109,26 @@ export async function POST(request: Request): Promise<Response> {
     return new Response('No document provided', { status: 400 });
   }
 
+  // Server-side file validation
+  if (documentFile) {
+    if (!isAllowedFile(documentFile)) {
+      return new Response('Invalid file type. Please upload a PDF, .txt, or .md file.', { status: 400 });
+    }
+    if (documentFile.size > MAX_FILE_BYTES) {
+      return new Response('Document file exceeds the 5 MB limit.', { status: 400 });
+    }
+  }
+  if (orgFile) {
+    if (!isAllowedFile(orgFile)) {
+      return new Response('Invalid file type for workplace document. Please upload a PDF, .txt, or .md file.', { status: 400 });
+    }
+    if (orgFile.size > MAX_FILE_BYTES) {
+      return new Response('Workplace document file exceeds the 5 MB limit.', { status: 400 });
+    }
+  }
+
   const systemPrompt = await loadSystemPrompt(region, reviewType);
   const content: Anthropic.ContentBlockParam[] = [];
-
-  // Build intake context block
-  const intakeParts: string[] = [];
-  if (role?.trim()) intakeParts.push(`Role and Industry: ${role.trim()}`);
-  if (sector?.trim()) intakeParts.push(`Sector: ${sector.trim()}`);
-  if (localGroup?.trim()) intakeParts.push(`Relevant local/iwi group: ${localGroup.trim()}`);
-  if (iwiContext?.trim()) intakeParts.push(`Community documents being referenced: ${iwiContext.trim()}`);
-
-  if (intakeParts.length > 0) {
-    content.push({
-      type: 'text',
-      text: `REVIEWER CONTEXT:\n${intakeParts.join('\n')}`,
-    });
-  }
 
   // Primary document
   const isPdf = documentFile?.type === 'application/pdf' || documentFile?.name?.endsWith('.pdf');
@@ -145,8 +185,8 @@ export async function POST(request: Request): Promise<Response> {
 
   const response = await client.messages.create(
     {
-      model: 'claude-opus-4-6',
-      max_tokens: 4096,
+      model: MODEL,
+      max_tokens: MAX_TOKENS,
       system: systemPrompt,
       messages: [{ role: 'user', content }],
       tools: [REVIEW_TOOL],

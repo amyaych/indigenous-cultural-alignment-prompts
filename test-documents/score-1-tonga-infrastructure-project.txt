@@ -1,0 +1,255 @@
+PACIFIC CONNECTIVITY INFRASTRUCTURE PROGRAMME
+Tonga Fibre Optic Network Expansion — Feasibility and Implementation Report
+Prepared by: Meridian Pacific Infrastructure Partners
+Client: Pacific Infrastructure Development Bank
+Date: July 2025
+Version: 2.0 FINAL
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+EXECUTIVE SUMMARY
+
+This report presents the findings of the feasibility study and implementation plan for the Tonga Fibre Optic Network Expansion (TFONE) project. The project proposes to extend Tonga's existing submarine cable infrastructure and terrestrial fibre network to connect an additional 14 outer islands across the Vava'u and Ha'apai island groups, providing broadband internet access to approximately 18,400 additional residents.
+
+The project is being developed by the Pacific Infrastructure Development Bank (PIDB) in partnership with the Kingdom of Tonga's Ministry of Meteorology, Energy, Information, Disaster Management, Environment, Climate Change and Communications (MEIDECC). Meridian Pacific Infrastructure Partners (MPIP) has been engaged as the technical advisor and project implementation agent.
+
+MPIP has assessed the technical, financial, and social viability of the project and concludes that it is a high-priority, viable infrastructure investment. The project will deliver significant economic and social benefits to underserved island communities and support Tonga's national development objectives as articulated in the Tonga Strategic Development Framework 2015–2025.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 1: PROJECT BACKGROUND AND CONTEXT
+
+1.1 The Connectivity Gap
+
+Tonga's main island of Tongatapu and the surrounding area benefit from relatively good broadband connectivity, supported by the Tui-Samoa Cable System and existing terrestrial fibre infrastructure. However, the outer island groups — particularly Vava'u, Ha'apai, and Niuas — have extremely limited or no broadband connectivity.
+
+The digital divide between Tongatapu and the outer islands has significant economic and social consequences:
+- Residents of outer islands cannot access government services increasingly delivered online
+- Businesses on outer islands cannot participate in e-commerce or online markets
+- Students lack access to online educational resources
+- Healthcare providers cannot access telemedicine platforms
+
+The TFONE project directly addresses this divide by extending infrastructure to communities that have been left behind by previous investment cycles.
+
+1.2 Strategic Alignment
+
+The project aligns with:
+- Tonga Strategic Development Framework 2015–2025: Smart Tonga pillar, which identifies digital connectivity as a national development priority
+- Pacific Digital Economy Programme (ADB): Regional initiative supporting digital infrastructure development across Pacific Island nations
+- United Nations Sustainable Development Goal 9: Build resilient infrastructure, promote inclusive and sustainable industrialisation and foster innovation
+- Pacific Regional Connectivity Programme: World Bank-funded regional connectivity initiative
+
+1.3 Project Proponents
+
+The Pacific Infrastructure Development Bank is the project sponsor and primary funding agency. PIDB has extensive experience delivering infrastructure projects across Pacific Island nations and has strong relationships with the Tongan government.
+
+The Ministry of Meteorology, Energy, Information, Disaster Management, Environment, Climate Change and Communications (MEIDECC) is the government counterpart. MEIDECC has indicated strong support for the project at ministerial level.
+
+Meridian Pacific Infrastructure Partners is the technical advisor. MPIP has delivered five previous submarine cable and terrestrial fibre projects in Pacific Island nations over the past decade.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 2: TECHNICAL DESIGN
+
+2.1 Network Architecture
+
+The TFONE network expansion comprises three components:
+
+a) Submarine cable extensions: New submarine cable segments connecting the main Tongatapu–Vava'u route to eight Ha'apai islands and extending the Vava'u cluster to six additional smaller islands. Total new submarine cable: 1,240km.
+
+b) Terrestrial fibre: 180km of terrestrial fibre on Vava'u island proper, extending existing coverage to three currently unconnected villages.
+
+c) Point-of-presence infrastructure: 22 new cable landing stations, network huts, and equipment facilities across the 14 target islands.
+
+2.2 Technology Selection
+
+MPIP recommends a shallow-water fibre optic cable system using proven Pacific deployment technology. The selected cable system is designed for the benthic conditions of the southern Vava'u and Ha'apai ocean floors, which were assessed by MPIP's marine survey team in April 2025.
+
+The terrestrial network will use standard single-mode fibre optic cable with armoured jacketing appropriate for the tropical climate and the soil conditions on Vava'u.
+
+2.3 Landing Site Selection
+
+Cable landing sites have been identified based on:
+- Water depth and bathymetric conditions suitable for cable landing
+- Proximity to population centres
+- Availability of cleared coastal land for cable landing stations
+- Road access for ongoing maintenance
+
+Landing site assessment was completed through desktop GIS analysis and a one-week field inspection by MPIP's survey team. A geotechnical assessment of proposed landing sites is planned for Q3 2025.
+
+2.4 Power Requirements
+
+Each cable landing station and network hut requires a reliable power supply. In outer island locations where grid power is not available or reliable, solar power with battery storage is proposed. MPIP has specified solar systems with sufficient capacity to operate network equipment continuously for 72 hours without solar input.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 3: PROJECT COSTS AND FINANCIAL ANALYSIS
+
+3.1 Capital Cost Estimate
+
+Total capital cost (Class 4 estimate): USD 48.4 million
+
+Breakdown:
+- Submarine cable (manufacture and supply): USD 22.6 million
+- Cable installation and burial: USD 8.4 million
+- Cable landing stations and equipment: USD 9.2 million
+- Terrestrial fibre (Vava'u): USD 2.8 million
+- Solar power systems (22 sites): USD 2.1 million
+- Design, engineering, and project management: USD 2.4 million
+- Contingency (20%): USD 4.9 million (note: higher contingency reflects remote location risks and limited local contractor availability)
+
+3.2 Operating Cost Estimate
+
+Annual operating costs (Year 1–5 stabilised): USD 1.8 million
+
+Breakdown:
+- Network management and monitoring: USD 480,000
+- Maintenance (preventive and reactive): USD 640,000
+- Power (solar system maintenance and replacement parts): USD 180,000
+- Staff (network technicians x2, remote monitoring): USD 320,000
+- Insurance: USD 180,000
+
+3.3 Revenue Projections
+
+Two revenue models have been assessed:
+
+a) Wholesale capacity model: PIDB owns the infrastructure and sells wholesale bandwidth to Tonga's telecommunications operators (TCC and Digicel Tonga). Estimated annual wholesale revenue: USD 2.4–3.2 million from Year 2.
+
+b) Open access model: Infrastructure is transferred to a government-owned entity following a build-operate period. This model reduces long-term revenue to PIDB but maximises affordable access for end users.
+
+MPIP recommends the open access model, which better aligns with the project's stated social objectives.
+
+3.4 Funding Structure
+
+The project funding structure proposed for PIDB consideration:
+
+- PIDB concessional loan: USD 28.0 million (58%)
+- Australian Department of Foreign Affairs and Trade grant: USD 12.0 million (25%)
+- New Zealand Ministry of Foreign Affairs and Trade grant: USD 6.0 million (12%)
+- Kingdom of Tonga government contribution: USD 2.4 million (5%)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 4: SOCIAL AND ENVIRONMENTAL ASSESSMENT
+
+4.1 Social Impact Overview
+
+The TFONE project is expected to generate positive social impacts for outer island communities through improved access to digital services, enhanced connectivity with family networks, and new economic opportunities. MPIP has prepared a Social Impact Assessment based on desktop research and two community information sessions held in Vava'u in June 2025.
+
+4.2 Community Information Sessions
+
+MPIP held two community information sessions:
+- Neiafu, Vava'u: 43 attendees (June 4, 2025)
+- Pangai, Ha'apai: 29 attendees (June 11, 2025)
+
+Sessions were conducted in English with a Tongan interpreter. The sessions presented the project concept and invited questions and comments. Attendees expressed general support for improved internet access. No formal objections were raised.
+
+Key questions raised included the cost of internet access following connectivity, the employment of local technicians, and the timeline for connectivity.
+
+MPIP noted that attendance at the sessions was predominantly male. A plan to conduct a separate women's session was discussed but not implemented due to schedule constraints.
+
+4.3 Land Access
+
+Cable landing stations and network huts will require acquisition of small land parcels (typically 100–200 sqm) at each of the 22 landing sites. Land access in Tonga involves negotiation with relevant landowners and, in some cases, with the Crown.
+
+Land negotiation will be conducted by MEIDECC, which has authority to acquire land for infrastructure purposes under Tongan law. MPIP will provide technical specifications to guide land requirements. The land acquisition timeline is estimated at 3–6 months.
+
+MPIP notes that some landing site locations may be on customarily held land. MEIDECC has advised that the standard process for government acquisition of customarily held land for infrastructure purposes will be followed.
+
+4.4 Heritage and Cultural Considerations
+
+MPIP's desktop assessment did not identify any registered heritage sites within the proposed cable route alignments. A heritage assessment notification will be submitted to the Tonga Visitors Bureau as part of the development consent process. Should any heritage sites be identified during construction, standard stop-work protocols will apply.
+
+4.5 Environmental Assessment
+
+Marine environmental impacts: Cable installation will cause localised seabed disturbance along the cable route. A benthic impact assessment was included in the marine survey. The survey found no coral reefs or sensitive benthic habitats along the proposed cable routes. Marine mammal monitoring will be conducted during cable installation as a standard precaution.
+
+Terrestrial environmental impacts: The terrestrial fibre route on Vava'u follows existing road corridors and is not expected to cause significant environmental disturbance.
+
+4.6 Gender Equity
+
+The project's digital connectivity will benefit all residents of the target islands. The project team recognises that women may face specific barriers to accessing and benefiting from digital connectivity (lower digital literacy, less access to devices, social norms that restrict internet use). A digital literacy programme, to be designed and delivered by a separate organisation following project completion, is recommended to address these barriers.
+
+4.7 Climate Resilience
+
+All infrastructure has been designed to meet the requirements of Tonga's National Infrastructure Investment Plan 2016, which includes climate resilience standards for coastal infrastructure. Cable landing stations will be elevated above the 1-in-100-year storm surge level identified in PIDB's Pacific climate risk assessment.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 5: IMPLEMENTATION PLAN
+
+5.1 Programme Schedule
+
+The following implementation schedule is proposed:
+
+Phase 1 — Design and Procurement (Q3 2025 – Q2 2026):
+- Detailed design finalisation
+- Landing site geotechnical assessments
+- Land access negotiations (MEIDECC)
+- International competitive tender for cable manufacture and installation
+- Local contractor procurement
+
+Phase 2 — Construction (Q3 2026 – Q2 2027):
+- Cable manufacture (12 months)
+- Cable installation (estimated 6 weeks vessel time)
+- Landing station construction
+- Terrestrial fibre installation (Vava'u)
+- Equipment installation and network testing
+
+Phase 3 — Commissioning and Handover (Q3 2027):
+- Network commissioning and performance testing
+- Operator training
+- Handover to MEIDECC/Tonga Communications Corporation
+- Project close-out
+
+5.2 Procurement Strategy
+
+The cable manufacture and installation contract will be procured through an international competitive tender process consistent with PIDB procurement policies. Firms from PIDB member countries are eligible to bid.
+
+MPIP recommends including a requirement in the installation contract for a minimum level of local labour engagement during the terrestrial construction phase. Based on MPIP's experience with comparable Pacific projects, a 25% local labour target is achievable for ground-based construction activities.
+
+5.3 Implementation Risks
+
+Key risks identified:
+- Weather windows: Cable installation is weather-dependent. The installation schedule is designed to coincide with favourable weather seasons, with contingency for one weather delay per island group.
+- Land access delays: Land negotiation on some outer islands may take longer than estimated. An eight-week contingency is included in the schedule.
+- Equipment supply chain: Global supply chain constraints continue to affect cable equipment lead times. Early procurement is recommended.
+- Local contractor capacity: Outer island construction capacity is limited. MPIP has identified two local contractors with relevant experience and recommends early engagement to secure their availability.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 6: MONITORING AND EVALUATION
+
+MPIP will prepare a Monitoring and Evaluation Framework for PIDB's approval prior to project commencement. Key performance indicators will include:
+
+- Number of islands connected
+- Population coverage (individuals within reach of network)
+- Network uptime and reliability
+- Wholesale bandwidth capacity utilised
+- End-user internet access prices (monitored post-handover)
+
+Social outcomes monitoring will be the responsibility of MEIDECC in partnership with the Tonga Statistics Department. MPIP will provide guidance on outcome indicator design but is not responsible for social outcome monitoring beyond the project implementation period.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 7: CONCLUSION AND RECOMMENDATIONS
+
+MPIP concludes that the Tonga Fibre Optic Network Expansion project is technically feasible, financially viable under the proposed funding structure, and consistent with Tonga's national development objectives. The project will deliver meaningful connectivity improvements to underserved outer island communities.
+
+MPIP recommends that PIDB approve the project for detailed design and proceed with procurement planning in Q3 2025, subject to confirmation of DFAT and MFAT grant contributions.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+APPENDICES:
+Appendix A — Network Design Drawings
+Appendix B — Marine Survey Summary
+Appendix C — Geotechnical Assessment Terms of Reference
+Appendix D — Capital Cost Estimate Detail
+Appendix E — Financial Model
+Appendix F — Social Impact Assessment
+Appendix G — Environmental Assessment
+Appendix H — Procurement Plan
+Appendix I — Risk Register
+
+Document prepared by Meridian Pacific Infrastructure Partners for Pacific Infrastructure Development Bank.
+Commercial in confidence.
