@@ -18,21 +18,21 @@ This project bridges the gap between **intent** and **action**. By surfacing cre
 
 ## How to Use
 
-### 1. Select Your Prompt
+### 1. Select Your prompt
 Choose the community and version that fits your needs:
 - **General Review Prompt**: For reviewing documents or products against publicly known legislation and cultural guidelines.
 - **Workplace Review Prompt**: For cross-referencing work against both external frameworks and your organisation's internal policies (e.g., RAPs, Māori strategies).
 
-### 2. Option A) Copy and Paste
+### 2. Option A) Copy and paste
 Paste the prompt into your AI assistant (optimised for **Claude**, compatible with ChatGPT and Gemini).
 
-### 2. Option B) Use with Claude Projects (Recommended)
+### 2. Option B) Use with Claude projects (recommended)
 You can upload the `.md` files directly to a **Claude Project** to provide persistent cultural context for your entire workspace.
 
-### 4. Provide Context
+### 4. Provide context
 Answer the AI's intake questions (Role, Industry, Region, etc.) and provide the content you want to review.
 
-### 5. Review and Act
+### 5. Review and act
 The AI will provide observations, provocations, and a **Confidence Score**. Use this feedback to refine your work and guide your real-world engagement. Treat outputs as guidance and questions, not final answers.
 
 ---
@@ -52,9 +52,9 @@ The AI assistant is a **pre-engagement tool**. It is designed to help you *prepa
 
 This project is built on a foundation of professional expertise and technical rigor.
 
-- **Expert-Led**: Created by [Amy Heritage], a Fijian professional with over 10 years of experience in Indigenous affairs across NZ, Australia, and Canada.
-- **Expert-Validated**: Rigorously reviewed through an internal **11-expert validation panel** using maintainer-created synthetic personas informed by public scholarship and frameworks; this does not indicate endorsement, affiliation, or direct participation by named individuals.
-- **Technically Robust**: Uses advanced LLM techniques like **Chain of Thought (CoT)** and **Confidence Scoring** to minimise hallucination.
+- **Expert-led**: Created by [Amy Heritage], a Fijian professional with over 10 years of experience in Indigenous affairs across NZ, Australia, and Canada.
+- **Expert-validated**: Rigorously reviewed through an internal **11-expert validation panel** using maintainer-created synthetic personas informed by public scholarship and frameworks; this does not indicate endorsement, affiliation, or direct participation by named individuals.
+- **Technically robust**: Uses advanced LLM techniques like **Chain of Thought (CoT)** and **Confidence Scoring** to minimise hallucination.
 
 **[Read the full Methodology and Development Process here](METHODOLOGY.md)**
 
